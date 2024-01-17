@@ -1,0 +1,2 @@
+# gcommit
+Git Commit helper
